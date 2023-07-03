@@ -1,6 +1,4 @@
-### Hi there 👋
-
- I am a Web Developer
+### Hi 👋 I am a Web Developer 
 
 Here are some ideas to get you started:
 
